@@ -1,0 +1,199 @@
+\hypertarget{_bhabha__fortran__doxy_8f}{}\section{Bhabha\+\_\+fortran\+\_\+doxy.\+f File Reference}
+\label{_bhabha__fortran__doxy_8f}\index{Bhabha\+\_\+fortran\+\_\+doxy.\+f@{Bhabha\+\_\+fortran\+\_\+doxy.\+f}}
+\subsection*{Functions/\+Subroutines}
+\begin{DoxyCompactItemize}
+\item 
+program \hyperlink{_bhabha__fortran__doxy_8f_abb2a1b5ba16400d3f12a537f03a70349}{bhabha\+\_\+scattering}
+\begin{DoxyCompactList}\small\item\em Programa do processo Bhabha. Calcula a seção de choque diferencial para uma determinada energia de centro de massa, bem como a seção de choque total em termos da energia de centro de massa. ~\newline
+ A compilação deve ser feita segundo o comando\+: gfortran -\/o Bhabha.\+exe \hyperlink{_bhabha__fortran__doxy_8f}{Bhabha\+\_\+fortran\+\_\+doxy.\+f} \hyperlink{subroutines_8f}{subroutines.\+f} ~\newline
+ Ou a versão sem documentação incluída e com as rotinas no mesmo arquivo\+: gfortran -\/o Bhabha.\+exe \hyperlink{_bhabha__fortran__sem__doxy_8f}{Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f} ~\newline
+ A execução ocorre via\+: ./\+Bhabha.exe ~\newline
+ Os gráficos dependem do programa gnuplot (cujos arquivos possuem extensão .gnu) para serem gerados. Em distribuições Debian, a instalação ocorre via\+:~\newline
+ sudo apt-\/get install gnuplot ~\newline
+ Autor\+: \[ \bf{Fabio \ Kopp } , \ Instituto \ de \ Física \ (UFRGS), \ RS , \ Brasil. \] ~\newline
+ Email\+: \[ \bf{ \ fabio.kopp@ufrgs.br} \] ~\newline
+ Versões\+: 0.\+1a -\/ (13/03/2018). ~\newline
+. \end{DoxyCompactList}\item 
+double precision function \hyperlink{_bhabha__fortran__doxy_8f_adb615d7a4a2665478c9f228d3281159e}{dsigma} (S2, X)
+\begin{DoxyCompactList}\small\item\em Sessão de choque diferencial \[ \frac{d\sigma}{d\Omega}(S2= \sqrt(s),x = cos(\theta))[\frac{nb}{sterad}] \]. \end{DoxyCompactList}\item 
+double precision function \hyperlink{_bhabha__fortran__doxy_8f_a6ccd416a98c419022d77a6fc40b55868}{faux} (X)
+\begin{DoxyCompactList}\small\item\em Função auxiliar para a integração da seção de choque diferencial no ângulo sólido. \end{DoxyCompactList}\item 
+double precision function \hyperlink{_bhabha__fortran__doxy_8f_a17b8b02265e091acaccdfb4a9444019f}{sigtotal} (S20)
+\begin{DoxyCompactList}\small\item\em Seção de choque total \[ \sigma( \ S20 = \sqrt(s) \ ) [nb] \], resultado da integração da função F\+A\+U\+X(\+X) usando a rotina de integração Simpson(função a ser integrada, limite inferior, limite superior, número de intervaloes) \end{DoxyCompactList}\item 
+subroutine \hyperlink{_bhabha__fortran__doxy_8f_a45708089271300abc165e88a11ab332e}{chisquared} (N, v, chi, chired, si2)
+\end{DoxyCompactItemize}
+
+
+\subsection{Function/\+Subroutine Documentation}
+\index{Bhabha\+\_\+fortran\+\_\+doxy.\+f@{Bhabha\+\_\+fortran\+\_\+doxy.\+f}!bhabha\+\_\+scattering@{bhabha\+\_\+scattering}}
+\index{bhabha\+\_\+scattering@{bhabha\+\_\+scattering}!Bhabha\+\_\+fortran\+\_\+doxy.\+f@{Bhabha\+\_\+fortran\+\_\+doxy.\+f}}
+\subsubsection[{\texorpdfstring{bhabha\+\_\+scattering}{bhabha_scattering}}]{\setlength{\rightskip}{0pt plus 5cm}program bhabha\+\_\+scattering (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\hypertarget{_bhabha__fortran__doxy_8f_abb2a1b5ba16400d3f12a537f03a70349}{}\label{_bhabha__fortran__doxy_8f_abb2a1b5ba16400d3f12a537f03a70349}
+
+
+Programa do processo Bhabha. Calcula a seção de choque diferencial para uma determinada energia de centro de massa, bem como a seção de choque total em termos da energia de centro de massa. ~\newline
+ A compilação deve ser feita segundo o comando\+: gfortran -\/o Bhabha.\+exe \hyperlink{_bhabha__fortran__doxy_8f}{Bhabha\+\_\+fortran\+\_\+doxy.\+f} \hyperlink{subroutines_8f}{subroutines.\+f} ~\newline
+ Ou a versão sem documentação incluída e com as rotinas no mesmo arquivo\+: gfortran -\/o Bhabha.\+exe \hyperlink{_bhabha__fortran__sem__doxy_8f}{Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f} ~\newline
+ A execução ocorre via\+: ./\+Bhabha.exe ~\newline
+ Os gráficos dependem do programa gnuplot (cujos arquivos possuem extensão .gnu) para serem gerados. Em distribuições Debian, a instalação ocorre via\+:~\newline
+ sudo apt-\/get install gnuplot ~\newline
+ Autor\+: \[ \bf{Fabio \ Kopp } , \ Instituto \ de \ Física \ (UFRGS), \ RS , \ Brasil. \] ~\newline
+ Email\+: \[ \bf{ \ fabio.kopp@ufrgs.br} \] ~\newline
+ Versões\+: 0.\+1a -\/ (13/03/2018). ~\newline
+. 
+
+
+
+Definition at line 12 of file Bhabha\+\_\+fortran\+\_\+doxy.\+f.
+
+
+
+Here is the call graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{_bhabha__fortran__doxy_8f_abb2a1b5ba16400d3f12a537f03a70349_cgraph}
+\end{center}
+\end{figure}
+
+
+\index{Bhabha\+\_\+fortran\+\_\+doxy.\+f@{Bhabha\+\_\+fortran\+\_\+doxy.\+f}!chisquared@{chisquared}}
+\index{chisquared@{chisquared}!Bhabha\+\_\+fortran\+\_\+doxy.\+f@{Bhabha\+\_\+fortran\+\_\+doxy.\+f}}
+\subsubsection[{\texorpdfstring{chisquared(\+N, v, chi, chired, si2)}{chisquared(N, v, chi, chired, si2)}}]{\setlength{\rightskip}{0pt plus 5cm}subroutine chisquared (
+\begin{DoxyParamCaption}
+\item[{integer}]{N, }
+\item[{integer}]{v, }
+\item[{double precision}]{chi, }
+\item[{double precision}]{chired, }
+\item[{double precision}]{si2}
+\end{DoxyParamCaption}
+)}\hypertarget{_bhabha__fortran__doxy_8f_a45708089271300abc165e88a11ab332e}{}\label{_bhabha__fortran__doxy_8f_a45708089271300abc165e88a11ab332e}
+Entrada\+: ~\newline
+ ~\newline
+ N é o número de pontos no arquivo de dados. ~\newline
+ v é o número de variáveis do modelo. ~\newline
+ si2 é a energia de centro de massa em GeV. ~\newline
+ ~\newline
+ Saída\+: ~\newline
+ chi é o valor do Qui-\/quadrado em uma dada energia de centro de massa. ~\newline
+ chired é o Qui-\/quadrado reduzidos. ~\newline
+ ~\newline
+ Para calcular o Qui-\/quadrado de uma energia de centro de massa diferente de 34.\+8 GeV, altere as colunas de y(\+N)=C(?,N) e d2y(\+N)=sqrt((C(?,N)/s)$\ast$$\ast$2) para os valores experimentais relacioados a outra energia de centro de massa. Lembrando que y(\+N) é o valor da seção de choque diferencial e d2y o erro desta somado em quadratura. 
+
+Definition at line 120 of file Bhabha\+\_\+fortran\+\_\+doxy.\+f.
+
+
+
+Here is the call graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=233pt]{_bhabha__fortran__doxy_8f_a45708089271300abc165e88a11ab332e_cgraph}
+\end{center}
+\end{figure}
+
+
+
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=276pt]{_bhabha__fortran__doxy_8f_a45708089271300abc165e88a11ab332e_icgraph}
+\end{center}
+\end{figure}
+
+
+\index{Bhabha\+\_\+fortran\+\_\+doxy.\+f@{Bhabha\+\_\+fortran\+\_\+doxy.\+f}!dsigma@{dsigma}}
+\index{dsigma@{dsigma}!Bhabha\+\_\+fortran\+\_\+doxy.\+f@{Bhabha\+\_\+fortran\+\_\+doxy.\+f}}
+\subsubsection[{\texorpdfstring{dsigma(\+S2, X)}{dsigma(S2, X)}}]{\setlength{\rightskip}{0pt plus 5cm}double precision function dsigma (
+\begin{DoxyParamCaption}
+\item[{double precision}]{S2, }
+\item[{double precision}]{X}
+\end{DoxyParamCaption}
+)}\hypertarget{_bhabha__fortran__doxy_8f_adb615d7a4a2665478c9f228d3281159e}{}\label{_bhabha__fortran__doxy_8f_adb615d7a4a2665478c9f228d3281159e}
+
+
+Sessão de choque diferencial \[ \frac{d\sigma}{d\Omega}(S2= \sqrt(s),x = cos(\theta))[\frac{nb}{sterad}] \]. 
+
+
+
+Definition at line 61 of file Bhabha\+\_\+fortran\+\_\+doxy.\+f.
+
+
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=344pt]{_bhabha__fortran__doxy_8f_adb615d7a4a2665478c9f228d3281159e_icgraph}
+\end{center}
+\end{figure}
+
+
+\index{Bhabha\+\_\+fortran\+\_\+doxy.\+f@{Bhabha\+\_\+fortran\+\_\+doxy.\+f}!faux@{faux}}
+\index{faux@{faux}!Bhabha\+\_\+fortran\+\_\+doxy.\+f@{Bhabha\+\_\+fortran\+\_\+doxy.\+f}}
+\subsubsection[{\texorpdfstring{faux(\+X)}{faux(X)}}]{\setlength{\rightskip}{0pt plus 5cm}double precision function faux (
+\begin{DoxyParamCaption}
+\item[{double precision}]{X}
+\end{DoxyParamCaption}
+)}\hypertarget{_bhabha__fortran__doxy_8f_a6ccd416a98c419022d77a6fc40b55868}{}\label{_bhabha__fortran__doxy_8f_a6ccd416a98c419022d77a6fc40b55868}
+
+
+Função auxiliar para a integração da seção de choque diferencial no ângulo sólido. 
+
+\[ \frac{d\sigma}{d\Omega} \cdot 2.0 \ \pi \ \cdot sin(\theta) \] 
+
+Definition at line 88 of file Bhabha\+\_\+fortran\+\_\+doxy.\+f.
+
+
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=283pt]{_bhabha__fortran__doxy_8f_a6ccd416a98c419022d77a6fc40b55868_icgraph}
+\end{center}
+\end{figure}
+
+
+\index{Bhabha\+\_\+fortran\+\_\+doxy.\+f@{Bhabha\+\_\+fortran\+\_\+doxy.\+f}!sigtotal@{sigtotal}}
+\index{sigtotal@{sigtotal}!Bhabha\+\_\+fortran\+\_\+doxy.\+f@{Bhabha\+\_\+fortran\+\_\+doxy.\+f}}
+\subsubsection[{\texorpdfstring{sigtotal(\+S20)}{sigtotal(S20)}}]{\setlength{\rightskip}{0pt plus 5cm}double precision function sigtotal (
+\begin{DoxyParamCaption}
+\item[{double precision}]{S20}
+\end{DoxyParamCaption}
+)}\hypertarget{_bhabha__fortran__doxy_8f_a17b8b02265e091acaccdfb4a9444019f}{}\label{_bhabha__fortran__doxy_8f_a17b8b02265e091acaccdfb4a9444019f}
+
+
+Seção de choque total \[ \sigma( \ S20 = \sqrt(s) \ ) [nb] \], resultado da integração da função F\+A\+U\+X(\+X) usando a rotina de integração Simpson(função a ser integrada, limite inferior, limite superior, número de intervaloes) 
+
+\[ \sigma[nb] = \int_{-0.84}^{0.84}\! \frac{d\sigma}{d\Omega} \cdot 2.0 \ \pi \ \cdot sin(\theta) \, \mathrm{d}\theta \] 
+
+Definition at line 102 of file Bhabha\+\_\+fortran\+\_\+doxy.\+f.
+
+
+
+Here is the call graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=212pt]{_bhabha__fortran__doxy_8f_a17b8b02265e091acaccdfb4a9444019f_cgraph}
+\end{center}
+\end{figure}
+
+
+
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=212pt]{_bhabha__fortran__doxy_8f_a17b8b02265e091acaccdfb4a9444019f_icgraph}
+\end{center}
+\end{figure}
+
+

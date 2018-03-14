@@ -1,0 +1,1671 @@
+\begin{theindex}
+
+  \item {angle\+\_\+cdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{12}
+    \subitem {subroutines.\+f}, \hyperpage{105}
+  \item {angle\+\_\+mean}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{12}
+    \subitem {subroutines.\+f}, \hyperpage{105}
+  \item {angle\+\_\+pdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{12}
+    \subitem {subroutines.\+f}, \hyperpage{105}
+  \item {anglit\+\_\+cdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{13}
+    \subitem {subroutines.\+f}, \hyperpage{106}
+  \item {anglit\+\_\+cdf\+\_\+inv}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{13}
+    \subitem {subroutines.\+f}, \hyperpage{106}
+  \item {anglit\+\_\+mean}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{13}
+    \subitem {subroutines.\+f}, \hyperpage{106}
+  \item {anglit\+\_\+pdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{14}
+    \subitem {subroutines.\+f}, \hyperpage{107}
+  \item {anglit\+\_\+sample}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{14}
+    \subitem {subroutines.\+f}, \hyperpage{107}
+  \item {anglit\+\_\+variance}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{14}
+    \subitem {subroutines.\+f}, \hyperpage{108}
+  \item {arcsin\+\_\+cdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{15}
+    \subitem {subroutines.\+f}, \hyperpage{108}
+  \item {arcsin\+\_\+cdf\+\_\+inv}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{15}
+    \subitem {subroutines.\+f}, \hyperpage{108}
+  \item {arcsin\+\_\+check}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{15}
+    \subitem {subroutines.\+f}, \hyperpage{109}
+  \item {arcsin\+\_\+mean}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{16}
+    \subitem {subroutines.\+f}, \hyperpage{109}
+  \item {arcsin\+\_\+pdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{16}
+    \subitem {subroutines.\+f}, \hyperpage{109}
+  \item {arcsin\+\_\+sample}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{16}
+    \subitem {subroutines.\+f}, \hyperpage{110}
+  \item {arcsin\+\_\+variance}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{17}
+    \subitem {subroutines.\+f}, \hyperpage{110}
+
+  \indexspace
+
+  \item {benford\+\_\+pdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{17}
+    \subitem {subroutines.\+f}, \hyperpage{111}
+  \item {bernoulli\+\_\+cdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{17}
+    \subitem {subroutines.\+f}, \hyperpage{111}
+  \item {bernoulli\+\_\+cdf\+\_\+inv}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{18}
+    \subitem {subroutines.\+f}, \hyperpage{111}
+  \item {bernoulli\+\_\+check}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{18}
+    \subitem {subroutines.\+f}, \hyperpage{112}
+  \item {bernoulli\+\_\+mean}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{18}
+    \subitem {subroutines.\+f}, \hyperpage{112}
+  \item {bernoulli\+\_\+pdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{19}
+    \subitem {subroutines.\+f}, \hyperpage{112}
+  \item {bernoulli\+\_\+sample}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{19}
+    \subitem {subroutines.\+f}, \hyperpage{113}
+  \item {bernoulli\+\_\+variance}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{19}
+    \subitem {subroutines.\+f}, \hyperpage{113}
+  \item {bessel\+\_\+i0}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{20}
+    \subitem {subroutines.\+f}, \hyperpage{114}
+  \item {bessel\+\_\+i0\+\_\+values}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{20}
+    \subitem {subroutines.\+f}, \hyperpage{114}
+  \item {beta}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{20}
+    \subitem {subroutines.\+f}, \hyperpage{114}
+  \item {beta\+\_\+binomial\+\_\+cdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{21}
+    \subitem {subroutines.\+f}, \hyperpage{115}
+  \item {beta\+\_\+binomial\+\_\+cdf\+\_\+inv}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{21}
+    \subitem {subroutines.\+f}, \hyperpage{116}
+  \item {beta\+\_\+binomial\+\_\+check}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{21}
+    \subitem {subroutines.\+f}, \hyperpage{116}
+  \item {beta\+\_\+binomial\+\_\+mean}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{22}
+    \subitem {subroutines.\+f}, \hyperpage{116}
+  \item {beta\+\_\+binomial\+\_\+pdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{22}
+    \subitem {subroutines.\+f}, \hyperpage{117}
+  \item {beta\+\_\+binomial\+\_\+sample}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{23}
+    \subitem {subroutines.\+f}, \hyperpage{117}
+  \item {beta\+\_\+binomial\+\_\+variance}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{23}
+    \subitem {subroutines.\+f}, \hyperpage{118}
+  \item {beta\+\_\+cdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{23}
+    \subitem {subroutines.\+f}, \hyperpage{118}
+  \item {beta\+\_\+cdf\+\_\+inv}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{24}
+    \subitem {subroutines.\+f}, \hyperpage{119}
+  \item {beta\+\_\+cdf\+\_\+inv\+\_\+old}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{24}
+    \subitem {subroutines.\+f}, \hyperpage{119}
+  \item {beta\+\_\+cdf\+\_\+values}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{25}
+    \subitem {subroutines.\+f}, \hyperpage{120}
+  \item {beta\+\_\+check}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{25}
+    \subitem {subroutines.\+f}, \hyperpage{120}
+  \item {beta\+\_\+inc}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{25}
+    \subitem {subroutines.\+f}, \hyperpage{121}
+  \item {beta\+\_\+inc\+\_\+values}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{25}
+    \subitem {subroutines.\+f}, \hyperpage{121}
+  \item {beta\+\_\+mean}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{26}
+    \subitem {subroutines.\+f}, \hyperpage{121}
+  \item {beta\+\_\+pdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{26}
+    \subitem {subroutines.\+f}, \hyperpage{122}
+  \item {beta\+\_\+sample}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{26}
+    \subitem {subroutines.\+f}, \hyperpage{122}
+  \item {beta\+\_\+variance}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{27}
+    \subitem {subroutines.\+f}, \hyperpage{122}
+  \item {Bhabha\+\_\+fortran\+\_\+doxy.\+f}, \hyperpage{3}
+    \subitem {bhabha\+\_\+scattering}, \hyperpage{4}
+    \subitem {chisquared}, \hyperpage{4}
+    \subitem {dsigma}, \hyperpage{5}
+    \subitem {faux}, \hyperpage{5}
+    \subitem {sigtotal}, \hyperpage{6}
+  \item {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, \hyperpage{7}
+    \subitem {angle\+\_\+cdf}, \hyperpage{12}
+    \subitem {angle\+\_\+mean}, \hyperpage{12}
+    \subitem {angle\+\_\+pdf}, \hyperpage{12}
+    \subitem {anglit\+\_\+cdf}, \hyperpage{13}
+    \subitem {anglit\+\_\+cdf\+\_\+inv}, \hyperpage{13}
+    \subitem {anglit\+\_\+mean}, \hyperpage{13}
+    \subitem {anglit\+\_\+pdf}, \hyperpage{14}
+    \subitem {anglit\+\_\+sample}, \hyperpage{14}
+    \subitem {anglit\+\_\+variance}, \hyperpage{14}
+    \subitem {arcsin\+\_\+cdf}, \hyperpage{15}
+    \subitem {arcsin\+\_\+cdf\+\_\+inv}, \hyperpage{15}
+    \subitem {arcsin\+\_\+check}, \hyperpage{15}
+    \subitem {arcsin\+\_\+mean}, \hyperpage{16}
+    \subitem {arcsin\+\_\+pdf}, \hyperpage{16}
+    \subitem {arcsin\+\_\+sample}, \hyperpage{16}
+    \subitem {arcsin\+\_\+variance}, \hyperpage{17}
+    \subitem {benford\+\_\+pdf}, \hyperpage{17}
+    \subitem {bernoulli\+\_\+cdf}, \hyperpage{17}
+    \subitem {bernoulli\+\_\+cdf\+\_\+inv}, \hyperpage{18}
+    \subitem {bernoulli\+\_\+check}, \hyperpage{18}
+    \subitem {bernoulli\+\_\+mean}, \hyperpage{18}
+    \subitem {bernoulli\+\_\+pdf}, \hyperpage{19}
+    \subitem {bernoulli\+\_\+sample}, \hyperpage{19}
+    \subitem {bernoulli\+\_\+variance}, \hyperpage{19}
+    \subitem {bessel\+\_\+i0}, \hyperpage{20}
+    \subitem {bessel\+\_\+i0\+\_\+values}, \hyperpage{20}
+    \subitem {beta}, \hyperpage{20}
+    \subitem {beta\+\_\+binomial\+\_\+cdf}, \hyperpage{21}
+    \subitem {beta\+\_\+binomial\+\_\+cdf\+\_\+inv}, \hyperpage{21}
+    \subitem {beta\+\_\+binomial\+\_\+check}, \hyperpage{21}
+    \subitem {beta\+\_\+binomial\+\_\+mean}, \hyperpage{22}
+    \subitem {beta\+\_\+binomial\+\_\+pdf}, \hyperpage{22}
+    \subitem {beta\+\_\+binomial\+\_\+sample}, \hyperpage{23}
+    \subitem {beta\+\_\+binomial\+\_\+variance}, \hyperpage{23}
+    \subitem {beta\+\_\+cdf}, \hyperpage{23}
+    \subitem {beta\+\_\+cdf\+\_\+inv}, \hyperpage{24}
+    \subitem {beta\+\_\+cdf\+\_\+inv\+\_\+old}, \hyperpage{24}
+    \subitem {beta\+\_\+cdf\+\_\+values}, \hyperpage{25}
+    \subitem {beta\+\_\+check}, \hyperpage{25}
+    \subitem {beta\+\_\+inc}, \hyperpage{25}
+    \subitem {beta\+\_\+inc\+\_\+values}, \hyperpage{25}
+    \subitem {beta\+\_\+mean}, \hyperpage{26}
+    \subitem {beta\+\_\+pdf}, \hyperpage{26}
+    \subitem {beta\+\_\+sample}, \hyperpage{26}
+    \subitem {beta\+\_\+variance}, \hyperpage{27}
+    \subitem {bhabha\+\_\+scattering}, \hyperpage{27}
+    \subitem {binomial\+\_\+cdf}, \hyperpage{27}
+    \subitem {binomial\+\_\+cdf\+\_\+values}, \hyperpage{28}
+    \subitem {birthday\+\_\+cdf}, \hyperpage{28}
+    \subitem {birthday\+\_\+cdf\+\_\+inv}, \hyperpage{28}
+    \subitem {birthday\+\_\+pdf}, \hyperpage{29}
+    \subitem {chisquared}, \hyperpage{29}
+    \subitem {dsigma}, \hyperpage{29}
+    \subitem {faux}, \hyperpage{30}
+    \subitem {geometric\+\_\+check}, \hyperpage{30}
+    \subitem {geometric\+\_\+mean}, \hyperpage{30}
+    \subitem {geometric\+\_\+pdf}, \hyperpage{30}
+    \subitem {geometric\+\_\+sample}, \hyperpage{31}
+    \subitem {geometric\+\_\+variance}, \hyperpage{31}
+    \subitem {gompertz\+\_\+cdf}, \hyperpage{31}
+    \subitem {gompertz\+\_\+cdf\+\_\+inv}, \hyperpage{32}
+    \subitem {gompertz\+\_\+check}, \hyperpage{32}
+    \subitem {gompertz\+\_\+pdf}, \hyperpage{32}
+    \subitem {gompertz\+\_\+sample}, \hyperpage{33}
+    \subitem {gumbel\+\_\+cdf}, \hyperpage{33}
+    \subitem {gumbel\+\_\+cdf\+\_\+inv}, \hyperpage{33}
+    \subitem {gumbel\+\_\+mean}, \hyperpage{34}
+    \subitem {gumbel\+\_\+pdf}, \hyperpage{34}
+    \subitem {gumbel\+\_\+sample}, \hyperpage{34}
+    \subitem {gumbel\+\_\+variance}, \hyperpage{35}
+    \subitem {half\+\_\+normal\+\_\+cdf}, \hyperpage{35}
+    \subitem {half\+\_\+normal\+\_\+cdf\+\_\+inv}, \hyperpage{35}
+    \subitem {half\+\_\+normal\+\_\+check}, \hyperpage{36}
+    \subitem {half\+\_\+normal\+\_\+mean}, \hyperpage{36}
+    \subitem {half\+\_\+normal\+\_\+pdf}, \hyperpage{36}
+    \subitem {half\+\_\+normal\+\_\+sample}, \hyperpage{37}
+    \subitem {half\+\_\+normal\+\_\+variance}, \hyperpage{37}
+    \subitem {hypergeometric\+\_\+cdf}, \hyperpage{37}
+    \subitem {hypergeometric\+\_\+cdf\+\_\+values}, \hyperpage{38}
+    \subitem {log\+\_\+series\+\_\+check}, \hyperpage{38}
+    \subitem {log\+\_\+series\+\_\+mean}, \hyperpage{38}
+    \subitem {log\+\_\+series\+\_\+pdf}, \hyperpage{39}
+    \subitem {log\+\_\+series\+\_\+sample}, \hyperpage{39}
+    \subitem {log\+\_\+series\+\_\+variance}, \hyperpage{39}
+    \subitem {log\+\_\+uniform\+\_\+cdf}, \hyperpage{40}
+    \subitem {log\+\_\+uniform\+\_\+cdf\+\_\+inv}, \hyperpage{40}
+    \subitem {log\+\_\+uniform\+\_\+check}, \hyperpage{40}
+    \subitem {log\+\_\+uniform\+\_\+mean}, \hyperpage{41}
+    \subitem {log\+\_\+uniform\+\_\+pdf}, \hyperpage{41}
+    \subitem {log\+\_\+uniform\+\_\+sample}, \hyperpage{41}
+    \subitem {lorentz\+\_\+cdf}, \hyperpage{42}
+    \subitem {lorentz\+\_\+cdf\+\_\+inv}, \hyperpage{42}
+    \subitem {lorentz\+\_\+mean}, \hyperpage{42}
+    \subitem {lorentz\+\_\+pdf}, \hyperpage{43}
+    \subitem {maxwell\+\_\+check}, \hyperpage{43}
+    \subitem {maxwell\+\_\+mean}, \hyperpage{43}
+    \subitem {maxwell\+\_\+pdf}, \hyperpage{44}
+    \subitem {maxwell\+\_\+sample}, \hyperpage{44}
+    \subitem {maxwell\+\_\+variance}, \hyperpage{44}
+    \subitem {multicoef\+\_\+check}, \hyperpage{45}
+    \subitem {multinomial\+\_\+check}, \hyperpage{45}
+    \subitem {multinomial\+\_\+coef1}, \hyperpage{45}
+    \subitem {multinomial\+\_\+coef2}, \hyperpage{46}
+    \subitem {multinomial\+\_\+covariance}, \hyperpage{46}
+    \subitem {multinomial\+\_\+mean}, \hyperpage{46}
+    \subitem {multinomial\+\_\+pdf}, \hyperpage{47}
+    \subitem {multinomial\+\_\+variance}, \hyperpage{47}
+    \subitem {multivariate\+\_\+normal\+\_\+sample}, \hyperpage{47}
+    \subitem {nakagami\+\_\+cdf}, \hyperpage{48}
+    \subitem {nakagami\+\_\+check}, \hyperpage{48}
+    \subitem {nakagami\+\_\+mean}, \hyperpage{48}
+    \subitem {nakagami\+\_\+pdf}, \hyperpage{49}
+    \subitem {nakagami\+\_\+variance}, \hyperpage{49}
+    \subitem {negative\+\_\+binomial\+\_\+cdf}, \hyperpage{49}
+    \subitem {negative\+\_\+binomial\+\_\+cdf\+\_\+inv}, \hyperpage{50}
+    \subitem {negative\+\_\+binomial\+\_\+cdf\+\_\+values}, 
+		\hyperpage{50}
+    \subitem {poisson\+\_\+cdf\+\_\+inv}, \hyperpage{50}
+    \subitem {poisson\+\_\+check}, \hyperpage{51}
+    \subitem {poisson\+\_\+kernel}, \hyperpage{51}
+    \subitem {poisson\+\_\+mean}, \hyperpage{51}
+    \subitem {poisson\+\_\+pdf}, \hyperpage{52}
+    \subitem {poisson\+\_\+sample}, \hyperpage{52}
+    \subitem {poisson\+\_\+variance}, \hyperpage{52}
+    \subitem {power\+\_\+cdf}, \hyperpage{53}
+    \subitem {power\+\_\+cdf\+\_\+inv}, \hyperpage{53}
+    \subitem {power\+\_\+check}, \hyperpage{53}
+    \subitem {power\+\_\+mean}, \hyperpage{54}
+    \subitem {power\+\_\+pdf}, \hyperpage{54}
+    \subitem {power\+\_\+sample}, \hyperpage{54}
+    \subitem {power\+\_\+variance}, \hyperpage{55}
+    \subitem {probchi2}, \hyperpage{55}
+    \subitem {psi\+\_\+values}, \hyperpage{55}
+    \subitem {quasigeometric\+\_\+cdf}, \hyperpage{55}
+    \subitem {quasigeometric\+\_\+cdf\+\_\+inv}, \hyperpage{56}
+    \subitem {quasigeometric\+\_\+check}, \hyperpage{56}
+    \subitem {quasigeometric\+\_\+mean}, \hyperpage{56}
+    \subitem {quasigeometric\+\_\+pdf}, \hyperpage{57}
+    \subitem {quasigeometric\+\_\+sample}, \hyperpage{57}
+    \subitem {quasigeometric\+\_\+variance}, \hyperpage{57}
+    \subitem {r4\+\_\+uniform\+\_\+01}, \hyperpage{58}
+    \subitem {r4\+\_\+uniform\+\_\+ab}, \hyperpage{58}
+    \subitem {r8\+\_\+epsilon}, \hyperpage{58}
+    \subitem {r8\+\_\+uniform\+\_\+01}, \hyperpage{59}
+    \subitem {r8mat\+\_\+print}, \hyperpage{59}
+    \subitem {r8mat\+\_\+print\+\_\+some}, \hyperpage{59}
+    \subitem {r8row\+\_\+max}, \hyperpage{60}
+    \subitem {r8row\+\_\+mean}, \hyperpage{60}
+    \subitem {r8row\+\_\+min}, \hyperpage{60}
+    \subitem {r8row\+\_\+variance}, \hyperpage{61}
+    \subitem {r8vec\+\_\+circular\+\_\+variance}, \hyperpage{61}
+    \subitem {r8vec\+\_\+dot\+\_\+product}, \hyperpage{61}
+    \subitem {r8vec\+\_\+mean}, \hyperpage{62}
+    \subitem {r8vec\+\_\+min}, \hyperpage{62}
+    \subitem {r8vec\+\_\+uniform\+\_\+01}, \hyperpage{62}
+    \subitem {r8vec\+\_\+uniform\+\_\+ab}, \hyperpage{63}
+    \subitem {r8vec\+\_\+unit\+\_\+sum}, \hyperpage{63}
+    \subitem {r8vec\+\_\+variance}, \hyperpage{63}
+    \subitem {rayleigh\+\_\+cdf}, \hyperpage{64}
+    \subitem {rayleigh\+\_\+cdf\+\_\+inv}, \hyperpage{64}
+    \subitem {rayleigh\+\_\+cdf\+\_\+values}, \hyperpage{64}
+    \subitem {rayleigh\+\_\+check}, \hyperpage{65}
+    \subitem {rayleigh\+\_\+mean}, \hyperpage{65}
+    \subitem {rayleigh\+\_\+pdf}, \hyperpage{65}
+    \subitem {rayleigh\+\_\+sample}, \hyperpage{66}
+    \subitem {rayleigh\+\_\+variance}, \hyperpage{66}
+    \subitem {reciprocal\+\_\+cdf}, \hyperpage{66}
+    \subitem {reciprocal\+\_\+cdf\+\_\+inv}, \hyperpage{67}
+    \subitem {reciprocal\+\_\+check}, \hyperpage{67}
+    \subitem {reciprocal\+\_\+mean}, \hyperpage{67}
+    \subitem {reciprocal\+\_\+pdf}, \hyperpage{68}
+    \subitem {reciprocal\+\_\+sample}, \hyperpage{68}
+    \subitem {reciprocal\+\_\+variance}, \hyperpage{68}
+    \subitem {ribesl}, \hyperpage{69}
+    \subitem {runs\+\_\+sample}, \hyperpage{69}
+    \subitem {runs\+\_\+simulate}, \hyperpage{69}
+    \subitem {runs\+\_\+variance}, \hyperpage{70}
+    \subitem {sech}, \hyperpage{70}
+    \subitem {sech\+\_\+cdf}, \hyperpage{70}
+    \subitem {sech\+\_\+cdf\+\_\+inv}, \hyperpage{71}
+    \subitem {sech\+\_\+check}, \hyperpage{71}
+    \subitem {sech\+\_\+mean}, \hyperpage{71}
+    \subitem {sech\+\_\+pdf}, \hyperpage{72}
+    \subitem {sech\+\_\+sample}, \hyperpage{72}
+    \subitem {sech\+\_\+variance}, \hyperpage{72}
+    \subitem {semicircular\+\_\+cdf}, \hyperpage{73}
+    \subitem {semicircular\+\_\+cdf\+\_\+inv}, \hyperpage{73}
+    \subitem {semicircular\+\_\+check}, \hyperpage{73}
+    \subitem {semicircular\+\_\+mean}, \hyperpage{74}
+    \subitem {semicircular\+\_\+pdf}, \hyperpage{74}
+    \subitem {semicircular\+\_\+sample}, \hyperpage{74}
+    \subitem {semicircular\+\_\+variance}, \hyperpage{75}
+    \subitem {sigtotal}, \hyperpage{75}
+    \subitem {simpson}, \hyperpage{75}
+    \subitem {sin\+\_\+power\+\_\+int}, \hyperpage{76}
+    \subitem {sphere\+\_\+unit\+\_\+area\+\_\+nd}, \hyperpage{76}
+    \subitem {stirling2\+\_\+value}, \hyperpage{76}
+    \subitem {student\+\_\+cdf}, \hyperpage{76}
+    \subitem {student\+\_\+cdf\+\_\+values}, \hyperpage{77}
+    \subitem {student\+\_\+check}, \hyperpage{77}
+    \subitem {student\+\_\+mean}, \hyperpage{77}
+    \subitem {student\+\_\+noncentral\+\_\+cdf}, \hyperpage{78}
+    \subitem {student\+\_\+noncentral\+\_\+cdf\+\_\+values}, 
+		\hyperpage{78}
+    \subitem {student\+\_\+pdf}, \hyperpage{78}
+    \subitem {student\+\_\+sample}, \hyperpage{79}
+    \subitem {student\+\_\+variance}, \hyperpage{79}
+    \subitem {tfn}, \hyperpage{79}
+    \subitem {triangle\+\_\+check}, \hyperpage{80}
+    \subitem {triangle\+\_\+mean}, \hyperpage{80}
+    \subitem {triangle\+\_\+pdf}, \hyperpage{80}
+    \subitem {triangle\+\_\+sample}, \hyperpage{81}
+    \subitem {triangle\+\_\+variance}, \hyperpage{81}
+    \subitem {triangular\+\_\+cdf}, \hyperpage{81}
+    \subitem {triangular\+\_\+cdf\+\_\+inv}, \hyperpage{82}
+    \subitem {triangular\+\_\+check}, \hyperpage{82}
+    \subitem {triangular\+\_\+mean}, \hyperpage{82}
+    \subitem {triangular\+\_\+pdf}, \hyperpage{83}
+    \subitem {triangular\+\_\+sample}, \hyperpage{83}
+    \subitem {triangular\+\_\+variance}, \hyperpage{83}
+    \subitem {trigamma}, \hyperpage{84}
+    \subitem {uniform\+\_\+01\+\_\+cdf}, \hyperpage{84}
+    \subitem {uniform\+\_\+01\+\_\+cdf\+\_\+inv}, \hyperpage{84}
+    \subitem {uniform\+\_\+01\+\_\+mean}, \hyperpage{85}
+    \subitem {uniform\+\_\+01\+\_\+order\+\_\+sample}, \hyperpage{85}
+    \subitem {uniform\+\_\+01\+\_\+pdf}, \hyperpage{85}
+    \subitem {uniform\+\_\+01\+\_\+sample}, \hyperpage{86}
+    \subitem {uniform\+\_\+check}, \hyperpage{86}
+    \subitem {uniform\+\_\+discrete\+\_\+cdf}, \hyperpage{86}
+    \subitem {uniform\+\_\+discrete\+\_\+cdf\+\_\+inv}, \hyperpage{87}
+    \subitem {uniform\+\_\+discrete\+\_\+check}, \hyperpage{87}
+    \subitem {uniform\+\_\+discrete\+\_\+mean}, \hyperpage{87}
+    \subitem {uniform\+\_\+discrete\+\_\+pdf}, \hyperpage{88}
+    \subitem {uniform\+\_\+discrete\+\_\+sample}, \hyperpage{88}
+    \subitem {uniform\+\_\+discrete\+\_\+variance}, \hyperpage{88}
+    \subitem {uniform\+\_\+mean}, \hyperpage{89}
+    \subitem {uniform\+\_\+nsphere\+\_\+sample}, \hyperpage{89}
+    \subitem {uniform\+\_\+pdf}, \hyperpage{89}
+    \subitem {uniform\+\_\+sample}, \hyperpage{90}
+    \subitem {uniform\+\_\+variance}, \hyperpage{90}
+    \subitem {von\+\_\+mises\+\_\+cdf}, \hyperpage{90}
+    \subitem {von\+\_\+mises\+\_\+cdf\+\_\+inv}, \hyperpage{91}
+    \subitem {von\+\_\+mises\+\_\+cdf\+\_\+values}, \hyperpage{91}
+    \subitem {von\+\_\+mises\+\_\+check}, \hyperpage{91}
+    \subitem {von\+\_\+mises\+\_\+circular\+\_\+variance}, 
+		\hyperpage{92}
+    \subitem {von\+\_\+mises\+\_\+mean}, \hyperpage{92}
+    \subitem {von\+\_\+mises\+\_\+pdf}, \hyperpage{92}
+    \subitem {von\+\_\+mises\+\_\+sample}, \hyperpage{93}
+    \subitem {weibull\+\_\+cdf}, \hyperpage{93}
+    \subitem {weibull\+\_\+cdf\+\_\+inv}, \hyperpage{93}
+    \subitem {weibull\+\_\+cdf\+\_\+values}, \hyperpage{94}
+    \subitem {weibull\+\_\+check}, \hyperpage{94}
+    \subitem {weibull\+\_\+discrete\+\_\+cdf}, \hyperpage{94}
+    \subitem {weibull\+\_\+discrete\+\_\+cdf\+\_\+inv}, \hyperpage{95}
+    \subitem {weibull\+\_\+discrete\+\_\+check}, \hyperpage{95}
+    \subitem {weibull\+\_\+discrete\+\_\+pdf}, \hyperpage{95}
+    \subitem {weibull\+\_\+discrete\+\_\+sample}, \hyperpage{96}
+    \subitem {weibull\+\_\+mean}, \hyperpage{96}
+    \subitem {weibull\+\_\+pdf}, \hyperpage{96}
+    \subitem {weibull\+\_\+sample}, \hyperpage{97}
+    \subitem {weibull\+\_\+variance}, \hyperpage{97}
+    \subitem {zeta}, \hyperpage{97}
+    \subitem {zipf\+\_\+cdf}, \hyperpage{98}
+    \subitem {zipf\+\_\+check}, \hyperpage{98}
+    \subitem {zipf\+\_\+mean}, \hyperpage{98}
+    \subitem {zipf\+\_\+pdf}, \hyperpage{99}
+    \subitem {zipf\+\_\+sample}, \hyperpage{99}
+    \subitem {zipf\+\_\+variance}, \hyperpage{99}
+  \item {bhabha\+\_\+plot.\+gnu}, \hyperpage{100}
+  \item {bhabha\+\_\+scattering}
+    \subitem {Bhabha\+\_\+fortran\+\_\+doxy.\+f}, \hyperpage{4}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{27}
+  \item {binomial\+\_\+cdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{27}
+    \subitem {subroutines.\+f}, \hyperpage{123}
+  \item {binomial\+\_\+cdf\+\_\+values}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{28}
+    \subitem {subroutines.\+f}, \hyperpage{123}
+  \item {birthday\+\_\+cdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{28}
+    \subitem {subroutines.\+f}, \hyperpage{123}
+  \item {birthday\+\_\+cdf\+\_\+inv}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{28}
+    \subitem {subroutines.\+f}, \hyperpage{124}
+  \item {birthday\+\_\+pdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{29}
+    \subitem {subroutines.\+f}, \hyperpage{124}
+
+  \indexspace
+
+  \item {chisquared}
+    \subitem {Bhabha\+\_\+fortran\+\_\+doxy.\+f}, \hyperpage{4}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{29}
+
+  \indexspace
+
+  \item {dsigma}
+    \subitem {Bhabha\+\_\+fortran\+\_\+doxy.\+f}, \hyperpage{5}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{29}
+
+  \indexspace
+
+  \item {experimental\+\_\+data.\+dat}, \hyperpage{100}
+
+  \indexspace
+
+  \item {faux}
+    \subitem {Bhabha\+\_\+fortran\+\_\+doxy.\+f}, \hyperpage{5}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{30}
+
+  \indexspace
+
+  \item {geometric\+\_\+check}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{30}
+    \subitem {subroutines.\+f}, \hyperpage{124}
+  \item {geometric\+\_\+mean}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{30}
+    \subitem {subroutines.\+f}, \hyperpage{125}
+  \item {geometric\+\_\+pdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{30}
+    \subitem {subroutines.\+f}, \hyperpage{125}
+  \item {geometric\+\_\+sample}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{31}
+    \subitem {subroutines.\+f}, \hyperpage{125}
+  \item {geometric\+\_\+variance}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{31}
+    \subitem {subroutines.\+f}, \hyperpage{126}
+  \item {gompertz\+\_\+cdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{31}
+    \subitem {subroutines.\+f}, \hyperpage{126}
+  \item {gompertz\+\_\+cdf\+\_\+inv}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{32}
+    \subitem {subroutines.\+f}, \hyperpage{126}
+  \item {gompertz\+\_\+check}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{32}
+    \subitem {subroutines.\+f}, \hyperpage{127}
+  \item {gompertz\+\_\+pdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{32}
+    \subitem {subroutines.\+f}, \hyperpage{127}
+  \item {gompertz\+\_\+sample}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{33}
+    \subitem {subroutines.\+f}, \hyperpage{127}
+  \item {gumbel\+\_\+cdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{33}
+    \subitem {subroutines.\+f}, \hyperpage{128}
+  \item {gumbel\+\_\+cdf\+\_\+inv}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{33}
+    \subitem {subroutines.\+f}, \hyperpage{128}
+  \item {gumbel\+\_\+mean}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{34}
+    \subitem {subroutines.\+f}, \hyperpage{129}
+  \item {gumbel\+\_\+pdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{34}
+    \subitem {subroutines.\+f}, \hyperpage{129}
+  \item {gumbel\+\_\+sample}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{34}
+    \subitem {subroutines.\+f}, \hyperpage{129}
+  \item {gumbel\+\_\+variance}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{35}
+    \subitem {subroutines.\+f}, \hyperpage{130}
+
+  \indexspace
+
+  \item {half\+\_\+normal\+\_\+cdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{35}
+    \subitem {subroutines.\+f}, \hyperpage{130}
+  \item {half\+\_\+normal\+\_\+cdf\+\_\+inv}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{35}
+    \subitem {subroutines.\+f}, \hyperpage{131}
+  \item {half\+\_\+normal\+\_\+check}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{36}
+    \subitem {subroutines.\+f}, \hyperpage{131}
+  \item {half\+\_\+normal\+\_\+mean}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{36}
+    \subitem {subroutines.\+f}, \hyperpage{131}
+  \item {half\+\_\+normal\+\_\+pdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{36}
+    \subitem {subroutines.\+f}, \hyperpage{132}
+  \item {half\+\_\+normal\+\_\+sample}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{37}
+    \subitem {subroutines.\+f}, \hyperpage{132}
+  \item {half\+\_\+normal\+\_\+variance}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{37}
+    \subitem {subroutines.\+f}, \hyperpage{133}
+  \item {hypergeometric\+\_\+cdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{37}
+    \subitem {subroutines.\+f}, \hyperpage{133}
+  \item {hypergeometric\+\_\+cdf\+\_\+values}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{38}
+    \subitem {subroutines.\+f}, \hyperpage{133}
+
+  \indexspace
+
+  \item {log\+\_\+series\+\_\+check}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{38}
+    \subitem {subroutines.\+f}, \hyperpage{134}
+  \item {log\+\_\+series\+\_\+mean}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{38}
+    \subitem {subroutines.\+f}, \hyperpage{134}
+  \item {log\+\_\+series\+\_\+pdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{39}
+    \subitem {subroutines.\+f}, \hyperpage{134}
+  \item {log\+\_\+series\+\_\+sample}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{39}
+    \subitem {subroutines.\+f}, \hyperpage{135}
+  \item {log\+\_\+series\+\_\+variance}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{39}
+    \subitem {subroutines.\+f}, \hyperpage{135}
+  \item {log\+\_\+uniform\+\_\+cdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{40}
+    \subitem {subroutines.\+f}, \hyperpage{135}
+  \item {log\+\_\+uniform\+\_\+cdf\+\_\+inv}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{40}
+    \subitem {subroutines.\+f}, \hyperpage{136}
+  \item {log\+\_\+uniform\+\_\+check}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{40}
+    \subitem {subroutines.\+f}, \hyperpage{136}
+  \item {log\+\_\+uniform\+\_\+mean}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{41}
+    \subitem {subroutines.\+f}, \hyperpage{136}
+  \item {log\+\_\+uniform\+\_\+pdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{41}
+    \subitem {subroutines.\+f}, \hyperpage{137}
+  \item {log\+\_\+uniform\+\_\+sample}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{41}
+    \subitem {subroutines.\+f}, \hyperpage{137}
+  \item {lorentz\+\_\+cdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{42}
+    \subitem {subroutines.\+f}, \hyperpage{138}
+  \item {lorentz\+\_\+cdf\+\_\+inv}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{42}
+    \subitem {subroutines.\+f}, \hyperpage{138}
+  \item {lorentz\+\_\+mean}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{42}
+    \subitem {subroutines.\+f}, \hyperpage{138}
+  \item {lorentz\+\_\+pdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{43}
+    \subitem {subroutines.\+f}, \hyperpage{139}
+
+  \indexspace
+
+  \item {maxwell\+\_\+check}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{43}
+    \subitem {subroutines.\+f}, \hyperpage{139}
+  \item {maxwell\+\_\+mean}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{43}
+    \subitem {subroutines.\+f}, \hyperpage{139}
+  \item {maxwell\+\_\+pdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{44}
+    \subitem {subroutines.\+f}, \hyperpage{140}
+  \item {maxwell\+\_\+sample}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{44}
+    \subitem {subroutines.\+f}, \hyperpage{140}
+  \item {maxwell\+\_\+variance}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{44}
+    \subitem {subroutines.\+f}, \hyperpage{140}
+  \item {multicoef\+\_\+check}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{45}
+    \subitem {subroutines.\+f}, \hyperpage{141}
+  \item {multinomial\+\_\+check}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{45}
+    \subitem {subroutines.\+f}, \hyperpage{141}
+  \item {multinomial\+\_\+coef1}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{45}
+    \subitem {subroutines.\+f}, \hyperpage{141}
+  \item {multinomial\+\_\+coef2}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{46}
+    \subitem {subroutines.\+f}, \hyperpage{142}
+  \item {multinomial\+\_\+covariance}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{46}
+    \subitem {subroutines.\+f}, \hyperpage{142}
+  \item {multinomial\+\_\+mean}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{46}
+    \subitem {subroutines.\+f}, \hyperpage{142}
+  \item {multinomial\+\_\+pdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{47}
+    \subitem {subroutines.\+f}, \hyperpage{143}
+  \item {multinomial\+\_\+variance}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{47}
+    \subitem {subroutines.\+f}, \hyperpage{143}
+  \item {multivariate\+\_\+normal\+\_\+sample}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{47}
+    \subitem {subroutines.\+f}, \hyperpage{143}
+
+  \indexspace
+
+  \item {nakagami\+\_\+cdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{48}
+    \subitem {subroutines.\+f}, \hyperpage{144}
+  \item {nakagami\+\_\+check}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{48}
+    \subitem {subroutines.\+f}, \hyperpage{144}
+  \item {nakagami\+\_\+mean}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{48}
+    \subitem {subroutines.\+f}, \hyperpage{144}
+  \item {nakagami\+\_\+pdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{49}
+    \subitem {subroutines.\+f}, \hyperpage{145}
+  \item {nakagami\+\_\+variance}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{49}
+    \subitem {subroutines.\+f}, \hyperpage{145}
+  \item {negative\+\_\+binomial\+\_\+cdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{49}
+    \subitem {subroutines.\+f}, \hyperpage{145}
+  \item {negative\+\_\+binomial\+\_\+cdf\+\_\+inv}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{50}
+    \subitem {subroutines.\+f}, \hyperpage{146}
+  \item {negative\+\_\+binomial\+\_\+cdf\+\_\+values}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{50}
+    \subitem {subroutines.\+f}, \hyperpage{146}
+
+  \indexspace
+
+  \item {poisson\+\_\+cdf\+\_\+inv}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{50}
+    \subitem {subroutines.\+f}, \hyperpage{146}
+  \item {poisson\+\_\+check}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{51}
+    \subitem {subroutines.\+f}, \hyperpage{147}
+  \item {poisson\+\_\+kernel}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{51}
+    \subitem {subroutines.\+f}, \hyperpage{147}
+  \item {poisson\+\_\+mean}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{51}
+    \subitem {subroutines.\+f}, \hyperpage{147}
+  \item {poisson\+\_\+pdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{52}
+    \subitem {subroutines.\+f}, \hyperpage{148}
+  \item {poisson\+\_\+sample}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{52}
+    \subitem {subroutines.\+f}, \hyperpage{148}
+  \item {poisson\+\_\+variance}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{52}
+    \subitem {subroutines.\+f}, \hyperpage{149}
+  \item {power\+\_\+cdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{53}
+    \subitem {subroutines.\+f}, \hyperpage{149}
+  \item {power\+\_\+cdf\+\_\+inv}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{53}
+    \subitem {subroutines.\+f}, \hyperpage{149}
+  \item {power\+\_\+check}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{53}
+    \subitem {subroutines.\+f}, \hyperpage{150}
+  \item {power\+\_\+mean}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{54}
+    \subitem {subroutines.\+f}, \hyperpage{150}
+  \item {power\+\_\+pdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{54}
+    \subitem {subroutines.\+f}, \hyperpage{150}
+  \item {power\+\_\+sample}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{54}
+    \subitem {subroutines.\+f}, \hyperpage{151}
+  \item {power\+\_\+variance}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{55}
+    \subitem {subroutines.\+f}, \hyperpage{151}
+  \item {probchi2}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{55}
+    \subitem {subroutines.\+f}, \hyperpage{152}
+  \item {psi\+\_\+values}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{55}
+    \subitem {subroutines.\+f}, \hyperpage{152}
+
+  \indexspace
+
+  \item {quasigeometric\+\_\+cdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{55}
+    \subitem {subroutines.\+f}, \hyperpage{152}
+  \item {quasigeometric\+\_\+cdf\+\_\+inv}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{56}
+    \subitem {subroutines.\+f}, \hyperpage{153}
+  \item {quasigeometric\+\_\+check}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{56}
+    \subitem {subroutines.\+f}, \hyperpage{153}
+  \item {quasigeometric\+\_\+mean}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{56}
+    \subitem {subroutines.\+f}, \hyperpage{153}
+  \item {quasigeometric\+\_\+pdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{57}
+    \subitem {subroutines.\+f}, \hyperpage{154}
+  \item {quasigeometric\+\_\+sample}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{57}
+    \subitem {subroutines.\+f}, \hyperpage{154}
+  \item {quasigeometric\+\_\+variance}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{57}
+    \subitem {subroutines.\+f}, \hyperpage{155}
+
+  \indexspace
+
+  \item {r4\+\_\+uniform\+\_\+01}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{58}
+    \subitem {subroutines.\+f}, \hyperpage{155}
+  \item {r4\+\_\+uniform\+\_\+ab}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{58}
+    \subitem {subroutines.\+f}, \hyperpage{155}
+  \item {r8\+\_\+epsilon}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{58}
+    \subitem {subroutines.\+f}, \hyperpage{156}
+  \item {r8\+\_\+uniform\+\_\+01}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{59}
+    \subitem {subroutines.\+f}, \hyperpage{156}
+  \item {r8mat\+\_\+print}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{59}
+    \subitem {subroutines.\+f}, \hyperpage{156}
+  \item {r8mat\+\_\+print\+\_\+some}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{59}
+    \subitem {subroutines.\+f}, \hyperpage{157}
+  \item {r8row\+\_\+max}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{60}
+    \subitem {subroutines.\+f}, \hyperpage{157}
+  \item {r8row\+\_\+mean}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{60}
+    \subitem {subroutines.\+f}, \hyperpage{158}
+  \item {r8row\+\_\+min}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{60}
+    \subitem {subroutines.\+f}, \hyperpage{158}
+  \item {r8row\+\_\+variance}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{61}
+    \subitem {subroutines.\+f}, \hyperpage{158}
+  \item {r8vec\+\_\+circular\+\_\+variance}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{61}
+    \subitem {subroutines.\+f}, \hyperpage{159}
+  \item {r8vec\+\_\+dot\+\_\+product}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{61}
+    \subitem {subroutines.\+f}, \hyperpage{159}
+  \item {r8vec\+\_\+mean}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{62}
+    \subitem {subroutines.\+f}, \hyperpage{159}
+  \item {r8vec\+\_\+min}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{62}
+    \subitem {subroutines.\+f}, \hyperpage{160}
+  \item {r8vec\+\_\+uniform\+\_\+01}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{62}
+    \subitem {subroutines.\+f}, \hyperpage{160}
+  \item {r8vec\+\_\+uniform\+\_\+ab}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{63}
+    \subitem {subroutines.\+f}, \hyperpage{160}
+  \item {r8vec\+\_\+unit\+\_\+sum}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{63}
+    \subitem {subroutines.\+f}, \hyperpage{161}
+  \item {r8vec\+\_\+variance}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{63}
+    \subitem {subroutines.\+f}, \hyperpage{161}
+  \item {rayleigh\+\_\+cdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{64}
+    \subitem {subroutines.\+f}, \hyperpage{162}
+  \item {rayleigh\+\_\+cdf\+\_\+inv}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{64}
+    \subitem {subroutines.\+f}, \hyperpage{162}
+  \item {rayleigh\+\_\+cdf\+\_\+values}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{64}
+    \subitem {subroutines.\+f}, \hyperpage{162}
+  \item {rayleigh\+\_\+check}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{65}
+    \subitem {subroutines.\+f}, \hyperpage{163}
+  \item {rayleigh\+\_\+mean}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{65}
+    \subitem {subroutines.\+f}, \hyperpage{163}
+  \item {rayleigh\+\_\+pdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{65}
+    \subitem {subroutines.\+f}, \hyperpage{163}
+  \item {rayleigh\+\_\+sample}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{66}
+    \subitem {subroutines.\+f}, \hyperpage{164}
+  \item {rayleigh\+\_\+variance}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{66}
+    \subitem {subroutines.\+f}, \hyperpage{164}
+  \item {reciprocal\+\_\+cdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{66}
+    \subitem {subroutines.\+f}, \hyperpage{165}
+  \item {reciprocal\+\_\+cdf\+\_\+inv}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{67}
+    \subitem {subroutines.\+f}, \hyperpage{165}
+  \item {reciprocal\+\_\+check}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{67}
+    \subitem {subroutines.\+f}, \hyperpage{165}
+  \item {reciprocal\+\_\+mean}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{67}
+    \subitem {subroutines.\+f}, \hyperpage{166}
+  \item {reciprocal\+\_\+pdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{68}
+    \subitem {subroutines.\+f}, \hyperpage{166}
+  \item {reciprocal\+\_\+sample}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{68}
+    \subitem {subroutines.\+f}, \hyperpage{166}
+  \item {reciprocal\+\_\+variance}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{68}
+    \subitem {subroutines.\+f}, \hyperpage{167}
+  \item {ribesl}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{69}
+    \subitem {subroutines.\+f}, \hyperpage{167}
+  \item {runs\+\_\+sample}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{69}
+    \subitem {subroutines.\+f}, \hyperpage{167}
+  \item {runs\+\_\+simulate}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{69}
+    \subitem {subroutines.\+f}, \hyperpage{168}
+  \item {runs\+\_\+variance}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{70}
+    \subitem {subroutines.\+f}, \hyperpage{168}
+
+  \indexspace
+
+  \item {sech}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{70}
+    \subitem {subroutines.\+f}, \hyperpage{169}
+  \item {sech\+\_\+cdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{70}
+    \subitem {subroutines.\+f}, \hyperpage{169}
+  \item {sech\+\_\+cdf\+\_\+inv}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{71}
+    \subitem {subroutines.\+f}, \hyperpage{169}
+  \item {sech\+\_\+check}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{71}
+    \subitem {subroutines.\+f}, \hyperpage{170}
+  \item {sech\+\_\+mean}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{71}
+    \subitem {subroutines.\+f}, \hyperpage{170}
+  \item {sech\+\_\+pdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{72}
+    \subitem {subroutines.\+f}, \hyperpage{170}
+  \item {sech\+\_\+sample}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{72}
+    \subitem {subroutines.\+f}, \hyperpage{171}
+  \item {sech\+\_\+variance}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{72}
+    \subitem {subroutines.\+f}, \hyperpage{171}
+  \item {semicircular\+\_\+cdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{73}
+    \subitem {subroutines.\+f}, \hyperpage{172}
+  \item {semicircular\+\_\+cdf\+\_\+inv}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{73}
+    \subitem {subroutines.\+f}, \hyperpage{172}
+  \item {semicircular\+\_\+check}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{73}
+    \subitem {subroutines.\+f}, \hyperpage{173}
+  \item {semicircular\+\_\+mean}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{74}
+    \subitem {subroutines.\+f}, \hyperpage{173}
+  \item {semicircular\+\_\+pdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{74}
+    \subitem {subroutines.\+f}, \hyperpage{173}
+  \item {semicircular\+\_\+sample}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{74}
+    \subitem {subroutines.\+f}, \hyperpage{174}
+  \item {semicircular\+\_\+variance}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{75}
+    \subitem {subroutines.\+f}, \hyperpage{174}
+  \item {sigtotal}
+    \subitem {Bhabha\+\_\+fortran\+\_\+doxy.\+f}, \hyperpage{6}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{75}
+  \item {sigtotal.\+gnu}, \hyperpage{100}
+  \item {sigtotalexp.\+dat}, \hyperpage{100}
+  \item {simpson}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{75}
+    \subitem {subroutines.\+f}, \hyperpage{174}
+  \item {sin\+\_\+power\+\_\+int}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{76}
+    \subitem {subroutines.\+f}, \hyperpage{175}
+  \item {sphere\+\_\+unit\+\_\+area\+\_\+nd}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{76}
+    \subitem {subroutines.\+f}, \hyperpage{175}
+  \item {stirling2\+\_\+value}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{76}
+    \subitem {subroutines.\+f}, \hyperpage{175}
+  \item {student\+\_\+cdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{76}
+    \subitem {subroutines.\+f}, \hyperpage{175}
+  \item {student\+\_\+cdf\+\_\+values}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{77}
+    \subitem {subroutines.\+f}, \hyperpage{176}
+  \item {student\+\_\+check}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{77}
+    \subitem {subroutines.\+f}, \hyperpage{176}
+  \item {student\+\_\+mean}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{77}
+    \subitem {subroutines.\+f}, \hyperpage{176}
+  \item {student\+\_\+noncentral\+\_\+cdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{78}
+    \subitem {subroutines.\+f}, \hyperpage{177}
+  \item {student\+\_\+noncentral\+\_\+cdf\+\_\+values}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{78}
+    \subitem {subroutines.\+f}, \hyperpage{177}
+  \item {student\+\_\+pdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{78}
+    \subitem {subroutines.\+f}, \hyperpage{177}
+  \item {student\+\_\+sample}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{79}
+    \subitem {subroutines.\+f}, \hyperpage{178}
+  \item {student\+\_\+variance}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{79}
+    \subitem {subroutines.\+f}, \hyperpage{178}
+  \item {subroutines.\+f}, \hyperpage{100}
+    \subitem {angle\+\_\+cdf}, \hyperpage{105}
+    \subitem {angle\+\_\+mean}, \hyperpage{105}
+    \subitem {angle\+\_\+pdf}, \hyperpage{105}
+    \subitem {anglit\+\_\+cdf}, \hyperpage{106}
+    \subitem {anglit\+\_\+cdf\+\_\+inv}, \hyperpage{106}
+    \subitem {anglit\+\_\+mean}, \hyperpage{106}
+    \subitem {anglit\+\_\+pdf}, \hyperpage{107}
+    \subitem {anglit\+\_\+sample}, \hyperpage{107}
+    \subitem {anglit\+\_\+variance}, \hyperpage{108}
+    \subitem {arcsin\+\_\+cdf}, \hyperpage{108}
+    \subitem {arcsin\+\_\+cdf\+\_\+inv}, \hyperpage{108}
+    \subitem {arcsin\+\_\+check}, \hyperpage{109}
+    \subitem {arcsin\+\_\+mean}, \hyperpage{109}
+    \subitem {arcsin\+\_\+pdf}, \hyperpage{109}
+    \subitem {arcsin\+\_\+sample}, \hyperpage{110}
+    \subitem {arcsin\+\_\+variance}, \hyperpage{110}
+    \subitem {benford\+\_\+pdf}, \hyperpage{111}
+    \subitem {bernoulli\+\_\+cdf}, \hyperpage{111}
+    \subitem {bernoulli\+\_\+cdf\+\_\+inv}, \hyperpage{111}
+    \subitem {bernoulli\+\_\+check}, \hyperpage{112}
+    \subitem {bernoulli\+\_\+mean}, \hyperpage{112}
+    \subitem {bernoulli\+\_\+pdf}, \hyperpage{112}
+    \subitem {bernoulli\+\_\+sample}, \hyperpage{113}
+    \subitem {bernoulli\+\_\+variance}, \hyperpage{113}
+    \subitem {bessel\+\_\+i0}, \hyperpage{114}
+    \subitem {bessel\+\_\+i0\+\_\+values}, \hyperpage{114}
+    \subitem {beta}, \hyperpage{114}
+    \subitem {beta\+\_\+binomial\+\_\+cdf}, \hyperpage{115}
+    \subitem {beta\+\_\+binomial\+\_\+cdf\+\_\+inv}, \hyperpage{116}
+    \subitem {beta\+\_\+binomial\+\_\+check}, \hyperpage{116}
+    \subitem {beta\+\_\+binomial\+\_\+mean}, \hyperpage{116}
+    \subitem {beta\+\_\+binomial\+\_\+pdf}, \hyperpage{117}
+    \subitem {beta\+\_\+binomial\+\_\+sample}, \hyperpage{117}
+    \subitem {beta\+\_\+binomial\+\_\+variance}, \hyperpage{118}
+    \subitem {beta\+\_\+cdf}, \hyperpage{118}
+    \subitem {beta\+\_\+cdf\+\_\+inv}, \hyperpage{119}
+    \subitem {beta\+\_\+cdf\+\_\+inv\+\_\+old}, \hyperpage{119}
+    \subitem {beta\+\_\+cdf\+\_\+values}, \hyperpage{120}
+    \subitem {beta\+\_\+check}, \hyperpage{120}
+    \subitem {beta\+\_\+inc}, \hyperpage{121}
+    \subitem {beta\+\_\+inc\+\_\+values}, \hyperpage{121}
+    \subitem {beta\+\_\+mean}, \hyperpage{121}
+    \subitem {beta\+\_\+pdf}, \hyperpage{122}
+    \subitem {beta\+\_\+sample}, \hyperpage{122}
+    \subitem {beta\+\_\+variance}, \hyperpage{122}
+    \subitem {binomial\+\_\+cdf}, \hyperpage{123}
+    \subitem {binomial\+\_\+cdf\+\_\+values}, \hyperpage{123}
+    \subitem {birthday\+\_\+cdf}, \hyperpage{123}
+    \subitem {birthday\+\_\+cdf\+\_\+inv}, \hyperpage{124}
+    \subitem {birthday\+\_\+pdf}, \hyperpage{124}
+    \subitem {geometric\+\_\+check}, \hyperpage{124}
+    \subitem {geometric\+\_\+mean}, \hyperpage{125}
+    \subitem {geometric\+\_\+pdf}, \hyperpage{125}
+    \subitem {geometric\+\_\+sample}, \hyperpage{125}
+    \subitem {geometric\+\_\+variance}, \hyperpage{126}
+    \subitem {gompertz\+\_\+cdf}, \hyperpage{126}
+    \subitem {gompertz\+\_\+cdf\+\_\+inv}, \hyperpage{126}
+    \subitem {gompertz\+\_\+check}, \hyperpage{127}
+    \subitem {gompertz\+\_\+pdf}, \hyperpage{127}
+    \subitem {gompertz\+\_\+sample}, \hyperpage{127}
+    \subitem {gumbel\+\_\+cdf}, \hyperpage{128}
+    \subitem {gumbel\+\_\+cdf\+\_\+inv}, \hyperpage{128}
+    \subitem {gumbel\+\_\+mean}, \hyperpage{129}
+    \subitem {gumbel\+\_\+pdf}, \hyperpage{129}
+    \subitem {gumbel\+\_\+sample}, \hyperpage{129}
+    \subitem {gumbel\+\_\+variance}, \hyperpage{130}
+    \subitem {half\+\_\+normal\+\_\+cdf}, \hyperpage{130}
+    \subitem {half\+\_\+normal\+\_\+cdf\+\_\+inv}, \hyperpage{131}
+    \subitem {half\+\_\+normal\+\_\+check}, \hyperpage{131}
+    \subitem {half\+\_\+normal\+\_\+mean}, \hyperpage{131}
+    \subitem {half\+\_\+normal\+\_\+pdf}, \hyperpage{132}
+    \subitem {half\+\_\+normal\+\_\+sample}, \hyperpage{132}
+    \subitem {half\+\_\+normal\+\_\+variance}, \hyperpage{133}
+    \subitem {hypergeometric\+\_\+cdf}, \hyperpage{133}
+    \subitem {hypergeometric\+\_\+cdf\+\_\+values}, \hyperpage{133}
+    \subitem {log\+\_\+series\+\_\+check}, \hyperpage{134}
+    \subitem {log\+\_\+series\+\_\+mean}, \hyperpage{134}
+    \subitem {log\+\_\+series\+\_\+pdf}, \hyperpage{134}
+    \subitem {log\+\_\+series\+\_\+sample}, \hyperpage{135}
+    \subitem {log\+\_\+series\+\_\+variance}, \hyperpage{135}
+    \subitem {log\+\_\+uniform\+\_\+cdf}, \hyperpage{135}
+    \subitem {log\+\_\+uniform\+\_\+cdf\+\_\+inv}, \hyperpage{136}
+    \subitem {log\+\_\+uniform\+\_\+check}, \hyperpage{136}
+    \subitem {log\+\_\+uniform\+\_\+mean}, \hyperpage{136}
+    \subitem {log\+\_\+uniform\+\_\+pdf}, \hyperpage{137}
+    \subitem {log\+\_\+uniform\+\_\+sample}, \hyperpage{137}
+    \subitem {lorentz\+\_\+cdf}, \hyperpage{138}
+    \subitem {lorentz\+\_\+cdf\+\_\+inv}, \hyperpage{138}
+    \subitem {lorentz\+\_\+mean}, \hyperpage{138}
+    \subitem {lorentz\+\_\+pdf}, \hyperpage{139}
+    \subitem {maxwell\+\_\+check}, \hyperpage{139}
+    \subitem {maxwell\+\_\+mean}, \hyperpage{139}
+    \subitem {maxwell\+\_\+pdf}, \hyperpage{140}
+    \subitem {maxwell\+\_\+sample}, \hyperpage{140}
+    \subitem {maxwell\+\_\+variance}, \hyperpage{140}
+    \subitem {multicoef\+\_\+check}, \hyperpage{141}
+    \subitem {multinomial\+\_\+check}, \hyperpage{141}
+    \subitem {multinomial\+\_\+coef1}, \hyperpage{141}
+    \subitem {multinomial\+\_\+coef2}, \hyperpage{142}
+    \subitem {multinomial\+\_\+covariance}, \hyperpage{142}
+    \subitem {multinomial\+\_\+mean}, \hyperpage{142}
+    \subitem {multinomial\+\_\+pdf}, \hyperpage{143}
+    \subitem {multinomial\+\_\+variance}, \hyperpage{143}
+    \subitem {multivariate\+\_\+normal\+\_\+sample}, \hyperpage{143}
+    \subitem {nakagami\+\_\+cdf}, \hyperpage{144}
+    \subitem {nakagami\+\_\+check}, \hyperpage{144}
+    \subitem {nakagami\+\_\+mean}, \hyperpage{144}
+    \subitem {nakagami\+\_\+pdf}, \hyperpage{145}
+    \subitem {nakagami\+\_\+variance}, \hyperpage{145}
+    \subitem {negative\+\_\+binomial\+\_\+cdf}, \hyperpage{145}
+    \subitem {negative\+\_\+binomial\+\_\+cdf\+\_\+inv}, 
+		\hyperpage{146}
+    \subitem {negative\+\_\+binomial\+\_\+cdf\+\_\+values}, 
+		\hyperpage{146}
+    \subitem {poisson\+\_\+cdf\+\_\+inv}, \hyperpage{146}
+    \subitem {poisson\+\_\+check}, \hyperpage{147}
+    \subitem {poisson\+\_\+kernel}, \hyperpage{147}
+    \subitem {poisson\+\_\+mean}, \hyperpage{147}
+    \subitem {poisson\+\_\+pdf}, \hyperpage{148}
+    \subitem {poisson\+\_\+sample}, \hyperpage{148}
+    \subitem {poisson\+\_\+variance}, \hyperpage{149}
+    \subitem {power\+\_\+cdf}, \hyperpage{149}
+    \subitem {power\+\_\+cdf\+\_\+inv}, \hyperpage{149}
+    \subitem {power\+\_\+check}, \hyperpage{150}
+    \subitem {power\+\_\+mean}, \hyperpage{150}
+    \subitem {power\+\_\+pdf}, \hyperpage{150}
+    \subitem {power\+\_\+sample}, \hyperpage{151}
+    \subitem {power\+\_\+variance}, \hyperpage{151}
+    \subitem {probchi2}, \hyperpage{152}
+    \subitem {psi\+\_\+values}, \hyperpage{152}
+    \subitem {quasigeometric\+\_\+cdf}, \hyperpage{152}
+    \subitem {quasigeometric\+\_\+cdf\+\_\+inv}, \hyperpage{153}
+    \subitem {quasigeometric\+\_\+check}, \hyperpage{153}
+    \subitem {quasigeometric\+\_\+mean}, \hyperpage{153}
+    \subitem {quasigeometric\+\_\+pdf}, \hyperpage{154}
+    \subitem {quasigeometric\+\_\+sample}, \hyperpage{154}
+    \subitem {quasigeometric\+\_\+variance}, \hyperpage{155}
+    \subitem {r4\+\_\+uniform\+\_\+01}, \hyperpage{155}
+    \subitem {r4\+\_\+uniform\+\_\+ab}, \hyperpage{155}
+    \subitem {r8\+\_\+epsilon}, \hyperpage{156}
+    \subitem {r8\+\_\+uniform\+\_\+01}, \hyperpage{156}
+    \subitem {r8mat\+\_\+print}, \hyperpage{156}
+    \subitem {r8mat\+\_\+print\+\_\+some}, \hyperpage{157}
+    \subitem {r8row\+\_\+max}, \hyperpage{157}
+    \subitem {r8row\+\_\+mean}, \hyperpage{158}
+    \subitem {r8row\+\_\+min}, \hyperpage{158}
+    \subitem {r8row\+\_\+variance}, \hyperpage{158}
+    \subitem {r8vec\+\_\+circular\+\_\+variance}, \hyperpage{159}
+    \subitem {r8vec\+\_\+dot\+\_\+product}, \hyperpage{159}
+    \subitem {r8vec\+\_\+mean}, \hyperpage{159}
+    \subitem {r8vec\+\_\+min}, \hyperpage{160}
+    \subitem {r8vec\+\_\+uniform\+\_\+01}, \hyperpage{160}
+    \subitem {r8vec\+\_\+uniform\+\_\+ab}, \hyperpage{160}
+    \subitem {r8vec\+\_\+unit\+\_\+sum}, \hyperpage{161}
+    \subitem {r8vec\+\_\+variance}, \hyperpage{161}
+    \subitem {rayleigh\+\_\+cdf}, \hyperpage{162}
+    \subitem {rayleigh\+\_\+cdf\+\_\+inv}, \hyperpage{162}
+    \subitem {rayleigh\+\_\+cdf\+\_\+values}, \hyperpage{162}
+    \subitem {rayleigh\+\_\+check}, \hyperpage{163}
+    \subitem {rayleigh\+\_\+mean}, \hyperpage{163}
+    \subitem {rayleigh\+\_\+pdf}, \hyperpage{163}
+    \subitem {rayleigh\+\_\+sample}, \hyperpage{164}
+    \subitem {rayleigh\+\_\+variance}, \hyperpage{164}
+    \subitem {reciprocal\+\_\+cdf}, \hyperpage{165}
+    \subitem {reciprocal\+\_\+cdf\+\_\+inv}, \hyperpage{165}
+    \subitem {reciprocal\+\_\+check}, \hyperpage{165}
+    \subitem {reciprocal\+\_\+mean}, \hyperpage{166}
+    \subitem {reciprocal\+\_\+pdf}, \hyperpage{166}
+    \subitem {reciprocal\+\_\+sample}, \hyperpage{166}
+    \subitem {reciprocal\+\_\+variance}, \hyperpage{167}
+    \subitem {ribesl}, \hyperpage{167}
+    \subitem {runs\+\_\+sample}, \hyperpage{167}
+    \subitem {runs\+\_\+simulate}, \hyperpage{168}
+    \subitem {runs\+\_\+variance}, \hyperpage{168}
+    \subitem {sech}, \hyperpage{169}
+    \subitem {sech\+\_\+cdf}, \hyperpage{169}
+    \subitem {sech\+\_\+cdf\+\_\+inv}, \hyperpage{169}
+    \subitem {sech\+\_\+check}, \hyperpage{170}
+    \subitem {sech\+\_\+mean}, \hyperpage{170}
+    \subitem {sech\+\_\+pdf}, \hyperpage{170}
+    \subitem {sech\+\_\+sample}, \hyperpage{171}
+    \subitem {sech\+\_\+variance}, \hyperpage{171}
+    \subitem {semicircular\+\_\+cdf}, \hyperpage{172}
+    \subitem {semicircular\+\_\+cdf\+\_\+inv}, \hyperpage{172}
+    \subitem {semicircular\+\_\+check}, \hyperpage{173}
+    \subitem {semicircular\+\_\+mean}, \hyperpage{173}
+    \subitem {semicircular\+\_\+pdf}, \hyperpage{173}
+    \subitem {semicircular\+\_\+sample}, \hyperpage{174}
+    \subitem {semicircular\+\_\+variance}, \hyperpage{174}
+    \subitem {simpson}, \hyperpage{174}
+    \subitem {sin\+\_\+power\+\_\+int}, \hyperpage{175}
+    \subitem {sphere\+\_\+unit\+\_\+area\+\_\+nd}, \hyperpage{175}
+    \subitem {stirling2\+\_\+value}, \hyperpage{175}
+    \subitem {student\+\_\+cdf}, \hyperpage{175}
+    \subitem {student\+\_\+cdf\+\_\+values}, \hyperpage{176}
+    \subitem {student\+\_\+check}, \hyperpage{176}
+    \subitem {student\+\_\+mean}, \hyperpage{176}
+    \subitem {student\+\_\+noncentral\+\_\+cdf}, \hyperpage{177}
+    \subitem {student\+\_\+noncentral\+\_\+cdf\+\_\+values}, 
+		\hyperpage{177}
+    \subitem {student\+\_\+pdf}, \hyperpage{177}
+    \subitem {student\+\_\+sample}, \hyperpage{178}
+    \subitem {student\+\_\+variance}, \hyperpage{178}
+    \subitem {tfn}, \hyperpage{178}
+    \subitem {triangle\+\_\+check}, \hyperpage{179}
+    \subitem {triangle\+\_\+mean}, \hyperpage{179}
+    \subitem {triangle\+\_\+pdf}, \hyperpage{179}
+    \subitem {triangle\+\_\+sample}, \hyperpage{180}
+    \subitem {triangle\+\_\+variance}, \hyperpage{180}
+    \subitem {triangular\+\_\+cdf}, \hyperpage{180}
+    \subitem {triangular\+\_\+cdf\+\_\+inv}, \hyperpage{181}
+    \subitem {triangular\+\_\+check}, \hyperpage{181}
+    \subitem {triangular\+\_\+mean}, \hyperpage{181}
+    \subitem {triangular\+\_\+pdf}, \hyperpage{182}
+    \subitem {triangular\+\_\+sample}, \hyperpage{182}
+    \subitem {triangular\+\_\+variance}, \hyperpage{183}
+    \subitem {trigamma}, \hyperpage{183}
+    \subitem {uniform\+\_\+01\+\_\+cdf}, \hyperpage{183}
+    \subitem {uniform\+\_\+01\+\_\+cdf\+\_\+inv}, \hyperpage{184}
+    \subitem {uniform\+\_\+01\+\_\+mean}, \hyperpage{184}
+    \subitem {uniform\+\_\+01\+\_\+order\+\_\+sample}, \hyperpage{184}
+    \subitem {uniform\+\_\+01\+\_\+pdf}, \hyperpage{185}
+    \subitem {uniform\+\_\+01\+\_\+sample}, \hyperpage{185}
+    \subitem {uniform\+\_\+check}, \hyperpage{185}
+    \subitem {uniform\+\_\+discrete\+\_\+cdf}, \hyperpage{186}
+    \subitem {uniform\+\_\+discrete\+\_\+cdf\+\_\+inv}, \hyperpage{186}
+    \subitem {uniform\+\_\+discrete\+\_\+check}, \hyperpage{186}
+    \subitem {uniform\+\_\+discrete\+\_\+mean}, \hyperpage{187}
+    \subitem {uniform\+\_\+discrete\+\_\+pdf}, \hyperpage{187}
+    \subitem {uniform\+\_\+discrete\+\_\+sample}, \hyperpage{187}
+    \subitem {uniform\+\_\+discrete\+\_\+variance}, \hyperpage{188}
+    \subitem {uniform\+\_\+mean}, \hyperpage{188}
+    \subitem {uniform\+\_\+nsphere\+\_\+sample}, \hyperpage{189}
+    \subitem {uniform\+\_\+pdf}, \hyperpage{189}
+    \subitem {uniform\+\_\+sample}, \hyperpage{189}
+    \subitem {uniform\+\_\+variance}, \hyperpage{190}
+    \subitem {von\+\_\+mises\+\_\+cdf}, \hyperpage{190}
+    \subitem {von\+\_\+mises\+\_\+cdf\+\_\+inv}, \hyperpage{190}
+    \subitem {von\+\_\+mises\+\_\+cdf\+\_\+values}, \hyperpage{191}
+    \subitem {von\+\_\+mises\+\_\+check}, \hyperpage{191}
+    \subitem {von\+\_\+mises\+\_\+circular\+\_\+variance}, 
+		\hyperpage{192}
+    \subitem {von\+\_\+mises\+\_\+mean}, \hyperpage{192}
+    \subitem {von\+\_\+mises\+\_\+pdf}, \hyperpage{192}
+    \subitem {von\+\_\+mises\+\_\+sample}, \hyperpage{193}
+    \subitem {weibull\+\_\+cdf}, \hyperpage{193}
+    \subitem {weibull\+\_\+cdf\+\_\+inv}, \hyperpage{193}
+    \subitem {weibull\+\_\+cdf\+\_\+values}, \hyperpage{194}
+    \subitem {weibull\+\_\+check}, \hyperpage{194}
+    \subitem {weibull\+\_\+discrete\+\_\+cdf}, \hyperpage{194}
+    \subitem {weibull\+\_\+discrete\+\_\+cdf\+\_\+inv}, \hyperpage{195}
+    \subitem {weibull\+\_\+discrete\+\_\+check}, \hyperpage{195}
+    \subitem {weibull\+\_\+discrete\+\_\+pdf}, \hyperpage{195}
+    \subitem {weibull\+\_\+discrete\+\_\+sample}, \hyperpage{196}
+    \subitem {weibull\+\_\+mean}, \hyperpage{196}
+    \subitem {weibull\+\_\+pdf}, \hyperpage{197}
+    \subitem {weibull\+\_\+sample}, \hyperpage{197}
+    \subitem {weibull\+\_\+variance}, \hyperpage{198}
+    \subitem {zeta}, \hyperpage{198}
+    \subitem {zipf\+\_\+cdf}, \hyperpage{198}
+    \subitem {zipf\+\_\+check}, \hyperpage{199}
+    \subitem {zipf\+\_\+mean}, \hyperpage{199}
+    \subitem {zipf\+\_\+pdf}, \hyperpage{199}
+    \subitem {zipf\+\_\+sample}, \hyperpage{200}
+    \subitem {zipf\+\_\+variance}, \hyperpage{200}
+
+  \indexspace
+
+  \item {tfn}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{79}
+    \subitem {subroutines.\+f}, \hyperpage{178}
+  \item {triangle\+\_\+check}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{80}
+    \subitem {subroutines.\+f}, \hyperpage{179}
+  \item {triangle\+\_\+mean}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{80}
+    \subitem {subroutines.\+f}, \hyperpage{179}
+  \item {triangle\+\_\+pdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{80}
+    \subitem {subroutines.\+f}, \hyperpage{179}
+  \item {triangle\+\_\+sample}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{81}
+    \subitem {subroutines.\+f}, \hyperpage{180}
+  \item {triangle\+\_\+variance}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{81}
+    \subitem {subroutines.\+f}, \hyperpage{180}
+  \item {triangular\+\_\+cdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{81}
+    \subitem {subroutines.\+f}, \hyperpage{180}
+  \item {triangular\+\_\+cdf\+\_\+inv}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{82}
+    \subitem {subroutines.\+f}, \hyperpage{181}
+  \item {triangular\+\_\+check}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{82}
+    \subitem {subroutines.\+f}, \hyperpage{181}
+  \item {triangular\+\_\+mean}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{82}
+    \subitem {subroutines.\+f}, \hyperpage{181}
+  \item {triangular\+\_\+pdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{83}
+    \subitem {subroutines.\+f}, \hyperpage{182}
+  \item {triangular\+\_\+sample}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{83}
+    \subitem {subroutines.\+f}, \hyperpage{182}
+  \item {triangular\+\_\+variance}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{83}
+    \subitem {subroutines.\+f}, \hyperpage{183}
+  \item {trigamma}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{84}
+    \subitem {subroutines.\+f}, \hyperpage{183}
+
+  \indexspace
+
+  \item {uniform\+\_\+01\+\_\+cdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{84}
+    \subitem {subroutines.\+f}, \hyperpage{183}
+  \item {uniform\+\_\+01\+\_\+cdf\+\_\+inv}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{84}
+    \subitem {subroutines.\+f}, \hyperpage{184}
+  \item {uniform\+\_\+01\+\_\+mean}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{85}
+    \subitem {subroutines.\+f}, \hyperpage{184}
+  \item {uniform\+\_\+01\+\_\+order\+\_\+sample}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{85}
+    \subitem {subroutines.\+f}, \hyperpage{184}
+  \item {uniform\+\_\+01\+\_\+pdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{85}
+    \subitem {subroutines.\+f}, \hyperpage{185}
+  \item {uniform\+\_\+01\+\_\+sample}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{86}
+    \subitem {subroutines.\+f}, \hyperpage{185}
+  \item {uniform\+\_\+check}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{86}
+    \subitem {subroutines.\+f}, \hyperpage{185}
+  \item {uniform\+\_\+discrete\+\_\+cdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{86}
+    \subitem {subroutines.\+f}, \hyperpage{186}
+  \item {uniform\+\_\+discrete\+\_\+cdf\+\_\+inv}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{87}
+    \subitem {subroutines.\+f}, \hyperpage{186}
+  \item {uniform\+\_\+discrete\+\_\+check}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{87}
+    \subitem {subroutines.\+f}, \hyperpage{186}
+  \item {uniform\+\_\+discrete\+\_\+mean}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{87}
+    \subitem {subroutines.\+f}, \hyperpage{187}
+  \item {uniform\+\_\+discrete\+\_\+pdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{88}
+    \subitem {subroutines.\+f}, \hyperpage{187}
+  \item {uniform\+\_\+discrete\+\_\+sample}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{88}
+    \subitem {subroutines.\+f}, \hyperpage{187}
+  \item {uniform\+\_\+discrete\+\_\+variance}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{88}
+    \subitem {subroutines.\+f}, \hyperpage{188}
+  \item {uniform\+\_\+mean}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{89}
+    \subitem {subroutines.\+f}, \hyperpage{188}
+  \item {uniform\+\_\+nsphere\+\_\+sample}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{89}
+    \subitem {subroutines.\+f}, \hyperpage{189}
+  \item {uniform\+\_\+pdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{89}
+    \subitem {subroutines.\+f}, \hyperpage{189}
+  \item {uniform\+\_\+sample}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{90}
+    \subitem {subroutines.\+f}, \hyperpage{189}
+  \item {uniform\+\_\+variance}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{90}
+    \subitem {subroutines.\+f}, \hyperpage{190}
+
+  \indexspace
+
+  \item {von\+\_\+mises\+\_\+cdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{90}
+    \subitem {subroutines.\+f}, \hyperpage{190}
+  \item {von\+\_\+mises\+\_\+cdf\+\_\+inv}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{91}
+    \subitem {subroutines.\+f}, \hyperpage{190}
+  \item {von\+\_\+mises\+\_\+cdf\+\_\+values}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{91}
+    \subitem {subroutines.\+f}, \hyperpage{191}
+  \item {von\+\_\+mises\+\_\+check}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{91}
+    \subitem {subroutines.\+f}, \hyperpage{191}
+  \item {von\+\_\+mises\+\_\+circular\+\_\+variance}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{92}
+    \subitem {subroutines.\+f}, \hyperpage{192}
+  \item {von\+\_\+mises\+\_\+mean}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{92}
+    \subitem {subroutines.\+f}, \hyperpage{192}
+  \item {von\+\_\+mises\+\_\+pdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{92}
+    \subitem {subroutines.\+f}, \hyperpage{192}
+  \item {von\+\_\+mises\+\_\+sample}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{93}
+    \subitem {subroutines.\+f}, \hyperpage{193}
+
+  \indexspace
+
+  \item {weibull\+\_\+cdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{93}
+    \subitem {subroutines.\+f}, \hyperpage{193}
+  \item {weibull\+\_\+cdf\+\_\+inv}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{93}
+    \subitem {subroutines.\+f}, \hyperpage{193}
+  \item {weibull\+\_\+cdf\+\_\+values}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{94}
+    \subitem {subroutines.\+f}, \hyperpage{194}
+  \item {weibull\+\_\+check}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{94}
+    \subitem {subroutines.\+f}, \hyperpage{194}
+  \item {weibull\+\_\+discrete\+\_\+cdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{94}
+    \subitem {subroutines.\+f}, \hyperpage{194}
+  \item {weibull\+\_\+discrete\+\_\+cdf\+\_\+inv}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{95}
+    \subitem {subroutines.\+f}, \hyperpage{195}
+  \item {weibull\+\_\+discrete\+\_\+check}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{95}
+    \subitem {subroutines.\+f}, \hyperpage{195}
+  \item {weibull\+\_\+discrete\+\_\+pdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{95}
+    \subitem {subroutines.\+f}, \hyperpage{195}
+  \item {weibull\+\_\+discrete\+\_\+sample}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{96}
+    \subitem {subroutines.\+f}, \hyperpage{196}
+  \item {weibull\+\_\+mean}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{96}
+    \subitem {subroutines.\+f}, \hyperpage{196}
+  \item {weibull\+\_\+pdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{96}
+    \subitem {subroutines.\+f}, \hyperpage{197}
+  \item {weibull\+\_\+sample}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{97}
+    \subitem {subroutines.\+f}, \hyperpage{197}
+  \item {weibull\+\_\+variance}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{97}
+    \subitem {subroutines.\+f}, \hyperpage{198}
+
+  \indexspace
+
+  \item {zeta}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{97}
+    \subitem {subroutines.\+f}, \hyperpage{198}
+  \item {zipf\+\_\+cdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{98}
+    \subitem {subroutines.\+f}, \hyperpage{198}
+  \item {zipf\+\_\+check}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{98}
+    \subitem {subroutines.\+f}, \hyperpage{199}
+  \item {zipf\+\_\+mean}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{98}
+    \subitem {subroutines.\+f}, \hyperpage{199}
+  \item {zipf\+\_\+pdf}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{99}
+    \subitem {subroutines.\+f}, \hyperpage{199}
+  \item {zipf\+\_\+sample}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{99}
+    \subitem {subroutines.\+f}, \hyperpage{200}
+  \item {zipf\+\_\+variance}
+    \subitem {Bhabha\+\_\+fortran\+\_\+sem\+\_\+doxy.\+f}, 
+		\hyperpage{99}
+    \subitem {subroutines.\+f}, \hyperpage{200}
+
+\end{theindex}
