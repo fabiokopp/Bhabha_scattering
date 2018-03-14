@@ -1,10 +1,11 @@
 # Bhabha_scattering
-Espalhamento Bhabha (Bhabha Scattering LO) [Fortran, Python, Mathematica]
-A documentação pode ser obtida em Fortra77_doc/html/index.html. Serve para todas as linguagens, visto que
-as funções foram definidas da mesma forma.
+Espalhamento Bhabha (Bhabha Scattering LO) [Fortran77, Python, Mathematica]
 
 Repositório criado para auxiliar na reprodução das contas do artigo Espalhamento Bhabha: Um Estudo Detalhado, 
 submetido a Revista Brasileira de Ensino de Física.
+
+A documentação pode ser obtida em Fortra77_doc/html/index.html, visto que serve para todas as linguagens. Pois as funções foram definidas da mesma forma.
+
 
 Autores: 
 
